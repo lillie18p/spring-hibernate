@@ -1,0 +1,14 @@
+{
+    "name": "Monica",
+    "surname": "Grimaldi",
+    "email": "monica@gmail.com",
+    "mobile":"07948945655",
+    "purchaseDate": "18/04/2019",
+    "deliveryDate":"28/05/2019",
+    "address":{
+    	"code":"Sn34 9RQ",
+    	"nameStreet":"Charles Mansions",
+    	"city":"London",
+    	"country":"U.K"
+    }
+}

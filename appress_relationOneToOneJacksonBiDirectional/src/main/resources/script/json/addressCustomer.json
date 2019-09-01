@@ -1,0 +1,16 @@
+{
+      	"id":1,
+        "zipCode": "sw23 7PR",
+        "streetName": "64 Charle Brown",
+        "city": "London",
+        "country": "UK",
+    	"customer":{
+			"id":1,
+		    "name": "Viviana",
+		    "surname": "Brambilla",
+		    "email": "vivianagmail.com",
+		    "mobile": "07865645543",
+		    "purchaseDate": "12/4/19",
+		    "deliveryDate": "20/04/19"
+		}
+}

@@ -1,0 +1,14 @@
+{
+    "name": "mafalda",
+    "surname": "Brambilla",
+    "email": "mafalda@connectmanaged.com",
+    "mobile": "07947356455",
+    "purchaseDate": "18/04/2019",
+    "deliveryDate": "28/05/2019",
+    "address": {
+        "code": "SW11 4PQ",
+        "streetName": "Albany Mansions",
+        "city": "London",
+        "country": "U.K"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Viviana",
+    "surname": "Brambilla",
+    "email": "ale@gmail.com",
+    "mobile": "07865645543",
+    "purchaseDate": "12/4/19",
+    "deliveryDate": "20/04/19",
+    "address": {
+        "zipCode": "sw23 7PR",
+        "streetName": "54 Charle Brown",
+        "city": "London",
+        "country": "UK"
+    }
+}
